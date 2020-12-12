@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'reaction-timer-app'
+  publicPath: '/vue-reaction-timer-app/'
 }
